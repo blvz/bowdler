@@ -41,7 +41,7 @@ asset 'backbone', '0.9'
 # ...
 ```
 
-And your done. Do a `bundle install`:
+And you're done. Do a `bundle install`:
 
 ```
 Using rake (10.1.0)
@@ -83,7 +83,7 @@ asset 'backbone'
 ## Credits
 
 Initially, this was supposed to be a [bundler-bower](https://github.com/LTe/bundler-bower) fork,
-but it was so complex to simplify it (like when using it with (Middleman)[http://middlemanapp.com]),
+but it was so complex to simplify it (like when using it with [Middleman](http://middlemanapp.com)),
 that I've ended up stripping out most of the code, modding some parts and packing everything on a
 separate gem.
 
