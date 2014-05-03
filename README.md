@@ -1,6 +1,12 @@
 bowdler
 ==============
 
+[![Build Status](https://secure.travis-ci.org/blvz/bowdler.png)](http://travis-ci.org/blvz/bowdler)
+[![Dependency Status](https://gemnasium.com/blvz/bowdler.png)](https://gemnasium.com/blvz/bowdler)
+[![Code Climate](https://codeclimate.com/github/blvz/bowdler.png)](https://codeclimate.com/github/blvz/bowdler)
+[![Coverage Status](https://coveralls.io/repos/blvz/bowdler/badge.png?branch=master)](https://coveralls.io/r/blvz/bowdler?branch=master)
+[![Gem Version](https://badge.fury.io/rb/bowdler.svg)](http://badge.fury.io/rb/bowdler)
+
 bower as you bundle, no bs.
 
 ### Requirements
