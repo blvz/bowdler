@@ -1,0 +1,4 @@
+assets_path 'vendor/assets'
+
+asset 'backbone', '0.9'
+asset 'moment'
